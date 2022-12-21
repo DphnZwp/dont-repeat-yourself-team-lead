@@ -2,8 +2,8 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Coding the curbs Teamlead
+Eerste jaars begeleiden helpen met het overzichtelijk te houden van hun project.
 
 ## Inhoudsopgave
 
